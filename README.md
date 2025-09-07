@@ -48,14 +48,14 @@
   <tr align="center">
     <td>
       <a href="https://leetcode.com/u/harshjjw80/" target="_blank">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" width="80" />
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" width="30" />
         <br />
         <b>LeetCode</b>
       </a>
     </td>
     <td>
       <a href="https://www.naukri.com/code360/profile/harsh0628" target="_blank">
-        <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="Code 360" width="80" />
+        <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="Code 360" width="100" />
         <br />
         <b>Code 360</b>
       </a>

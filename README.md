@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d1aWZ1d2ZjdHk1bXc1Z3hybGs3dnZ3aXd2eDQ3MWo0cHR0bDU5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYxT/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW11a2JjajFudHBpNXV3aTF3cndkYThldzZpd3M2d294ejA0aW95NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 </p>
 
 <h1 align="center">Harsh | Software Development Engineer</h1>
@@ -36,7 +36,7 @@
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="45" height="45"/></a>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFpbzM4azhncjQ5cWp1ajE3ajU1eGw1bXdvZGZmOGk0N2V5YWRjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5sdXdhbWFmbGJkM2x2NXVxcnQ0azZ3bHVyOTR2eWZ2a3Z4emFvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmN8APc2hP65rMwpVs/giphy.gif" width="300">
 </p>
 
 
@@ -54,10 +54,10 @@
       </a>
     </td>
     <td>
-      <a href="https://www.naukri.com/code360/profile/harsh0628" target="_blank">
-        <img src="https://asset.brandfetch.io/idQVGbrvGL/idFr40i_9y.png" alt="Code360" width="80" />
+      <a href="https://www.codingninjas.com/studio/profile/harsh0628" target="_blank">
+        <img src="https://www.codingninjas.com/assets-landing/images/CodingNinjas_Logo.svg" alt="Coding Ninjas" width="80" />
         <br />
-        <b>Code 360</b>
+        <b>Coding Ninjas</b>
       </a>
     </td>
   </tr>

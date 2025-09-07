@@ -54,10 +54,10 @@
       </a>
     </td>
     <td>
-      <a href="https://www.codingninjas.com/studio/profile/harsh0628" target="_blank">
-        <img src="https://files.codingninjas.in/cn-logo-dark-9824.svg" alt="Coding Ninjas" width="80" />
+      <a href="https://www.naukri.com/code360/profile/harsh0628" target="_blank">
+        <img src="https://files.codingninjas.in/new-cn-logos-1-1711622387.svg" alt="Code 360" width="80" />
         <br />
-        <b>Coding Ninjas</b>
+        <b>Code 360</b>
       </a>
     </td>
   </tr>

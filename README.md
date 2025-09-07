@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3o2E5/giphy.gif" width="250">
+  <img src="https://i.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="250">
 </p>
 
 <h1 align="center">Harsh | Software Development Engineer</h1>
@@ -12,9 +12,9 @@
 
 ---
 
-### ### 🛠️ My Tech Stack & Skills
+### 🛠️ My Tech Stack & Skills
 
-#### #### 💻 Web Development (Frontend + Backend)
+#### 💻 Web Development (Frontend + Backend)
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/></a>
@@ -25,7 +25,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/></a>
 </p>
 
-#### #### ☁️ DevOps & Cloud Engineering
+#### ☁️ DevOps & Cloud Engineering
 <p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/></a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="45" height="45"/></a>
@@ -36,13 +36,13 @@
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="45" height="45"/></a>
 </p>
 <p align="center">
-  <img src="https://i.giphy.com/media/wZmmv1v8fL1p2HvBEg/giphy.gif" width="300">
+  <img src="https://i.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif" width="300">
 </p>
 
 
 ---
 
-### ### 📊 Competitive Programming Profiles
+### 📊 Competitive Programming Profiles
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr align="center">
@@ -65,10 +65,7 @@
 
 ---
 
-### ### 📫 Let's Connect!
+### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harsh0628/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="harsh0628-linkedin" />
-  </a>
-</p>
+  <a href="https://

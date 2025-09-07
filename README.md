@@ -12,9 +12,9 @@
 
 ---
 
-### 🛠️ My Tech Stack & Skills
+### ### 🛠️ My Tech Stack & Skills
 
-#### 💻 Web Development (Frontend + Backend)
+#### #### 💻 Web Development (Frontend + Backend)
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/></a>
@@ -25,7 +25,7 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="45" height="45"/></a>
 </p>
 
-#### ☁️ DevOps & Cloud Engineering
+#### #### ☁️ DevOps & Cloud Engineering
 <p align="center">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/></a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="45" height="45"/></a>
@@ -42,7 +42,7 @@
 
 ---
 
-### 📊 Competitive Programming Profiles
+### ### 📊 Competitive Programming Profiles
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr align="center">
@@ -55,7 +55,7 @@
     </td>
     <td>
       <a href="https://www.codingninjas.com/studio/profile/harsh0628" target="_blank">
-        <img src="https://www.codingninjas.com/assets-landing/images/CodingNinjas_Logo.svg" alt="Coding Ninjas" width="80" />
+        <img src="https://files.codingninjas.in/cn-logo-dark-9824.svg" alt="Coding Ninjas" width="80" />
         <br />
         <b>Coding Ninjas</b>
       </a>
@@ -65,7 +65,10 @@
 
 ---
 
-### 📫 Let's Connect!
+### ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://
+  <a href="https://www.linkedin.com/in/harsh0628/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="harsh0628-linkedin" />
+  </a>
+</p>

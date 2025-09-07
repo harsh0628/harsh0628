@@ -36,7 +36,7 @@
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="45" height="45"/></a>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5sdXdhbWFmbGJkM2x2NXVxcnQ0azZ3bHVyOTR2eWZ2a3Z4emFvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmN8APc2hP65rMwpVs/giphy.gif" width="300">
+  <img src="https://i.giphy.com/media/o8A56Ja2n2sog55i5r/giphy.gif" width="300">
 </p>
 
 
